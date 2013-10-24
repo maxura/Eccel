@@ -33,16 +33,6 @@ public class TstCls {
             System.out.println(matcher.group());
         //System.out.println(matcher.group());
         connect.disconnect();
-//        String ttStr =
-//                "https://codenvy-dev.com/factory?v=1.0&pname=factoryUrlRepo&wname=musienko
-// .maxim&vcs=git&vcsurl=http%3A%2F%2Fcodenvy-dev" +
-//                ".com%2Fgit%2F8c%2Faf%2F79%2Fworkspaceprc1iwncrr4eltxc%2FfactoryUrlRepo&idcommit
-// =606e4c672a18c20c68e4f865e8da4f68ac7a4a44" +
-//                "&action=openproject&ptype=Spring";
-
-
-        //git/refs/heads/master
-
 
     }
 }

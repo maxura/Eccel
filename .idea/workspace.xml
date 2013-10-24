@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1430f79-9240-49ad-a78a-e214e3d2c8d6" name="Default" comment="" />
+    <list default="true" id="e1430f79-9240-49ad-a78a-e214e3d2c8d6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_mail.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mail_1_4.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Eccel2.iml" afterPath="$PROJECT_DIR$/Eccel2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Eccel2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/copyright/profiles_settings.xml" />
@@ -18,12 +27,12 @@
     <file path="/fragment.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377013333698" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-cloud-ide-selenium/src/test/java/com/exoplatform/cldide/mail/MailReceiver.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1375975064156" ignored="false" />
     <file path="/TestMess.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1375977221610" ignored="false" />
-    <file path="/a.dummy" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381744428395" ignored="false" />
+    <file path="/a.dummy" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382536915262" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/miscellaneous/DialogAboutTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380116732767" ignored="false" />
     <file path="/DialogAboutTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1375975016799" ignored="false" />
-    <file path="/RegxpExperementation.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380190462307" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/mail/MailReceiver.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380191019271" ignored="false" />
-    <file path="/MailReceiver.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380038265735" ignored="false" />
+    <file path="/RegxpExperementation.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382537841190" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/mail/MailReceiver.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382538422304" ignored="false" />
+    <file path="/MailReceiver.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382537195552" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/cloudide/ConfirmTenanntCreationTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1376291854025" ignored="false" />
     <file path="/ConfirmTenanntCreationTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1376064334318" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/mail/MailCheck.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380117900554" ignored="false" />
@@ -34,8 +43,8 @@
     <file path="/Some.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1376490760340" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/sitecldide/MainPageUITest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379076408208" ignored="false" />
     <file path="/MainPageUITest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1378128211541" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/resources/conf/selenium.properties" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382430581039" ignored="false" />
-    <file path="/selenium.properties" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381394562892" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/resources/conf/selenium.properties" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382543287004" ignored="false" />
+    <file path="/selenium.properties" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382537293434" ignored="false" />
     <file path="/JavaCodeAssistantTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1376553665224" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/operation/autocompletion/JavaCodeAssistantTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380116654686" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/sitecldide/core/TenantCreationTEst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1376555880389" ignored="false" />
@@ -69,7 +78,7 @@
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/sitecldide/core/HeaderMainElements.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380211669822" ignored="false" />
     <file path="/HeaderMainElements.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377013882914" ignored="false" />
     <file path="/SomeClass4.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377155931206" ignored="false" />
-    <file path="/MailTrainingIMAP.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377785223978" ignored="false" />
+    <file path="/MailTrainingIMAP.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382598641145" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/CollaborationFeaturesInAnonimWrkSpaceTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210233825" ignored="false" />
     <file path="/CollaborationFeaturesInAnonimWrkSpaceTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379587456398" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/InvalidInviteURLTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377782894886" ignored="false" />
@@ -78,7 +87,7 @@
     <file path="/ImportProjectFromMainPage.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1377786999173" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/PortProjectFromMainPageTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1378193396289" ignored="false" />
     <file path="/PortProjectFromMainPageTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1378119456933" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/CreateAccountFromTemporaryWorkspaceTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380009198865" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/CreateAccountFromTemporaryWorkspaceTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382543284249" ignored="false" />
     <file path="/RefactoringConstructorOmitCallConstructorSuperTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1378201341352" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/operation/java/refactoing/RefactoringConstructorOmitCallConstructorSuperTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382355923131" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/AuthenticatedUserInTemporaryWsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1378388856353" ignored="false" />
@@ -182,7 +191,7 @@
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/sitecldide/TenantCreationTst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380211561984" ignored="false" />
     <file path="/TenantCreationTst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379079039019" ignored="false" />
     <file path="/ForgotPasswordTst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379425476846" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryURLShareButtonsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210273432" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryURLShareButtonsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382543284249" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/debug/DebugStepOverTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380114956954" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/debug/SetBreakPointsInSomeProjectsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381755208881" ignored="false" />
     <file path="/SetBreakPointsInSomeProjectsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381755208560" ignored="false" />
@@ -233,7 +242,7 @@
     <file path="/HotkeysFormTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382443075036" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/core/Chat.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380209807449" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/JRebelImpactsTst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380009198865" ignored="false" />
-    <file path="/Dummy.txt" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382452384259" ignored="false" />
+    <file path="/Dummy.txt" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382525394607" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/core/File.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380114953763" ignored="false" />
     <file path="/File.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379947038189" ignored="false" />
     <file path="/BasicFileOutput.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379951182995" ignored="false" />
@@ -543,14 +552,14 @@
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CheckStatusAndViewGitURLTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210355191" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CheckoutToRemoteBranchWhichAlreadyHasLinkedLocalBranchTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210359647" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/AddRemoteRepositoryTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210368430" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CommitFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210419773" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CommitFilesWithAllChangesExceptOfNewFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210426357" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CommitFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382527095403" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/CommitFilesWithAllChangesExceptOfNewFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382529099777" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/RemoveFilesFromIndexOnlyTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210441645" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/RemoveFilesFromIndexAndWorkingDirectoryTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210445861" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/MixedResetToCommitTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210458093" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/InitializeAndDeleteLocalRepositoryTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210463916" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/ImportPublicOrganizationRepoTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210469277" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/HardResetToCommitTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210512828" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/MixedResetToCommitTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382534941460" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/InitializeAndDeleteLocalRepositoryTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382534100526" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/ImportPublicOrganizationRepoTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382532335427" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/HardResetToCommitTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382531616206" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/ViewHistoryAndDiffWithPreviousVersionTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210539219" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/SoftResetToCommitTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210544115" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/git/ShellGitRemoteRepositoriesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380210550699" ignored="false" />
@@ -619,7 +628,7 @@
     <file path="/CheckGitIconsAfterLinkWithEditor.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381754820971" ignored="false" />
     <file path="/CkEditor.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381764310786" ignored="false" />
     <file path="/EditFileInWysiwygEditorTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1381763481426" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryURLWithoutCommitIDTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382426123742" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryURLWithoutCommitIDTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382543284249" ignored="false" />
     <file path="/FactoryURLWithoutCommitIDTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382112859325" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryUrlWithIDCommitAndVCSBranchTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382024035968" ignored="false" />
     <file path="/FactoryUrlWithIDCommitAndVCSBranchTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382021124976" ignored="false" />
@@ -627,7 +636,7 @@
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/FactoryURLWithSpecifiedCommitIDTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382024023213" ignored="false" />
     <file path="/CollectionsExamples.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382343870032" ignored="false" />
     <file path="/NetSample.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382345353562" ignored="false" />
-    <file path="/TextFile.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382351370014" ignored="false" />
+    <file path="/TextFile.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382536842717" ignored="false" />
     <file path="/RefactoringConstructorGenerateCommentsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382355685865" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/operation/java/refactoing/RefactoringConstructorЦшерщгеCommentsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382355720800" ignored="false" />
     <file path="/RefactoringTestsuite.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382355879941" ignored="false" />
@@ -636,7 +645,7 @@
     <file path="/NonAuthenticatedUserInTemporaryWsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382368768809" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/TemporaryWsLimitationsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382426123742" ignored="false" />
     <file path="/TemporaryWsLimitationsTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382368824752" ignored="false" />
-    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/WCO2/WSO2FactoryUrlTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382426505005" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/WCO2/WSO2FactoryUrlTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382537725999" ignored="false" />
     <file path="/SearchLoadFileTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382431177849" ignored="false" />
     <file path="/SearchByMimeTypeTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382431744205" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/search/SearchByMimeTypeTestInDifferentFolder.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382442980386" ignored="false" />
@@ -648,6 +657,12 @@
     <file path="/SearchInClonedJavaProject.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382448461918" ignored="false" />
     <file path="/SearchResult.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382449322005" ignored="false" />
     <file path="/ProjectExplorer.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382448283459" ignored="false" />
+    <file path="$PROJECT_DIR$/../.idea/workspace.xml" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382454602465" ignored="false" />
+    <file path="/CommitFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382527024254" ignored="false" />
+    <file path="/CommitFilesWithAllChangesExceptOfNewFilesTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382529053409" ignored="false" />
+    <file path="/ImportPublicOrganizationRepoTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382532198797" ignored="false" />
+    <file path="/InitializeAndDeleteLocalRepositoryTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382534097374" ignored="false" />
+    <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/AndroidAppRunInTemporaryWorkspaceTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382543284249" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -722,30 +737,8 @@
       <file leaf-file-name="TextFile.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="33" selection-start="1367" selection-end="1368" vertical-scroll-proportion="0.8111111">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/io/File.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="30" selection-start="5923" selection-end="5923" vertical-scroll-proportion="0.0">
+            <state line="56" column="33" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.61608773">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BufferedReader.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/io/BufferedReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="19" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#14572#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -776,26 +769,27 @@
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/eccel/samples/SomeClass3.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass4.java" />
         <option value="$PROJECT_DIR$/src/io/DirList.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/BufferedInputFile.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/MemoryInput.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/FormattedMemoryInput.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/BufferedInputFile.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/BasicFileOutput.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/TestMess.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingPop3.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/collections/CollectionsExamples.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/netexamps/NetSample.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="25" />
-    <option name="width" value="1680" />
-    <option name="height" value="990" />
+    <option name="x" value="-4" />
+    <option name="y" value="19" />
+    <option name="width" value="1688" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -902,6 +896,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -909,6 +904,10 @@
               <option name="myItemId" value="Eccel2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -931,24 +930,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pochercushki" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -967,10 +948,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pochercushki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1004,11 +981,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="62" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="62" />
@@ -1018,11 +994,12 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/tmp/javamail/javax.mail.jar!/" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="65" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="595" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="593" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="65" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="60" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
@@ -1049,23 +1026,7 @@
       <recent name="ua.max.pochercushki.eccel.samples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NetSample">
-    <configuration default="false" name="FormattedMemoryInput" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.io.FormattedMemoryInput" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Eccel2" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MailTrainingIMAP">
     <configuration default="false" name="BasicFileOutput" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.io.BasicFileOutput" />
       <option name="VM_PARAMETERS" />
@@ -1116,6 +1077,22 @@
     </configuration>
     <configuration default="false" name="NetSample" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.netexamps.NetSample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Eccel2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MailTrainingIMAP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.MailTrainingIMAP" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1242,19 +1219,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.RegxpExperementation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FormattedMemoryInput" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BasicFileOutput" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TstCls" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CollectionsExamples" />
-      <item index="5" class="java.lang.String" itemvalue="Application.NetSample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BasicFileOutput" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TstCls" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CollectionsExamples" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NetSample" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MailTrainingIMAP" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NetSample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CollectionsExamples" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TstCls" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BasicFileOutput" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FormattedMemoryInput" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MailTrainingIMAP" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NetSample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CollectionsExamples" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TstCls" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BasicFileOutput" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1290,7 +1267,11 @@
       <created>1382452395727</created>
       <updated>1382452395727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="try add files">
+      <created>1382454538165</created>
+      <updated>1382454538165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1314,25 +1295,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1680" height="990" extended-state="0" />
+    <frame x="-4" y="19" width="1688" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32986537" sideWeight="0.6709602" order="3" side_tool="false" content_ui="tabs" x="150" y="637" width="759" height="348" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06042654" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19672132" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.28688523" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1978673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="11" y="699" width="1634" height="281" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19672132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="11" y="699" width="1634" height="281" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.93911004" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19434194" sideWeight="0.6706161" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27251184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26682988" sideWeight="0.6709602" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19789228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32986537" sideWeight="0.6709602" order="3" side_tool="false" content_ui="tabs" x="150" y="637" width="759" height="348" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1406,98 +1387,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="19" selection-start="2404" selection-end="2404" vertical-scroll-proportion="-0.21428572">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="24" selection-start="1700" selection-end="1700" vertical-scroll-proportion="-0.67346936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/TestMess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="61" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.05612245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="-0.1734694">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.4387755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.20408164">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.15306123">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="1173" selection-end="1173" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/holding/Statistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#652#0" expanded="false" />
-            <element signature="e#234#251#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="4" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/collections/CollectionsExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#392#409#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="18" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/netexamps/NetSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="23" column="47" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/util/ArrayList.java">
@@ -1510,25 +1412,97 @@
     <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="95" column="19" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#14572#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/jdk1.6.0_34/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="30" selection-start="5923" selection-end="5923" vertical-scroll-proportion="0.0">
+        <state line="126" column="30" selection-start="5923" selection-end="5923" vertical-scroll-proportion="0.018292682">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="230" selection-end="230" vertical-scroll-proportion="-0.32507738">
+          <folding>
+            <element signature="e#0#2607#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2177#2185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="47" selection-start="2712" selection-end="2712" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingPop3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.88770866">
+          <folding>
+            <element signature="e#0#2847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.02276176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="-0.09104704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.13657056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/TestMess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="61" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="9" selection-start="2860" selection-end="2860" vertical-scroll-proportion="0.68740517">
+          <folding>
+            <element signature="e#0#4460#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="33" selection-start="1367" selection-end="1368" vertical-scroll-proportion="0.8111111">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="56" column="33" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.61608773">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1609,7 +1583,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mail-1.4</last-edited>
+          <last-edited>javax.mail</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
