@@ -1,4 +1,4 @@
-//: initialization/Overloading.java
+package initialization;//: initialization/Overloading.java
 // Demonstration of both constructor
 // and ordinary method overloading.
 import static net.mindview.util.Print.*;
@@ -32,7 +32,10 @@ public class Overloading {
     // Overloaded constructor:
     new Tree();
   }	
-} /* Output:
+}
+
+
+/* Output:
 Creating new Tree that is 0 feet tall
 Tree is 0 feet tall
 overloaded method: Tree is 0 feet tall

@@ -19,7 +19,7 @@
       <directory url="file://$PROJECT_DIR$/src/generics" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/gui" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/holding" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/initialization" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/initialization" includeSubdirectories="false" />
       <directory url="file://$PROJECT_DIR$/src/innerclasses" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/interfaces" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/io" includeSubdirectories="true" />
