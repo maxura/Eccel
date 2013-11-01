@@ -10,6 +10,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="javax.mail" level="project" />
+    <orderEntry type="library" name="mail" level="project" />
   </component>
 </module>
 
