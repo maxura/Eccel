@@ -69,7 +69,9 @@ public class MailTrainingIMAP {
             mailBoxFolder.open(Folder.READ_ONLY); // Open the Folder.
             msgs = mailBoxFolder.getMessages();
 
-        } catch (Exception e) {
+        }
+
+        catch (Exception e) {
             e.printStackTrace();
         }
         return msgs;
@@ -83,6 +85,7 @@ public class MailTrainingIMAP {
         for (Message msg : msgs) {
             System.out.println(msg.getContent().toString());
         }
+        mailStore.close();
     }
 
     //  }

@@ -73,8 +73,7 @@ public class CloudIDEGetName {
             http = (HttpURLConnection)new URL(restUrl).openConnection();
             http.setRequestProperty("Referer", restUrl);
             http.setAllowUserInteraction(false);
-
-            http.setRequestMethod("GET");
+           http.setRequestMethod("GET");
 
             while (http.getInputStream().available() != 0) {
                 build.append(((char)http.getInputStream().read()));
@@ -84,9 +83,9 @@ public class CloudIDEGetName {
             http.getInputStream().close();
             http.disconnect();
         } catch (MalformedURLException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            e.printStackTrace();
         } catch (IOException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            e.printStackTrace();
         }
 
     }

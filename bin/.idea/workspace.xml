@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1430f79-9240-49ad-a78a-e214e3d2c8d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Overloading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PrimitiveOverloading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/print/Print.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mail.xml" />
-      <change type="DELETED" beforePath="D:\MeJAVA\Eccel2\.idea\libraries\javax_mail.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Eccel2.iml" afterPath="$PROJECT_DIR$/Eccel2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/initialization/PrimitiveOverloading.java" afterPath="$PROJECT_DIR$/src/initialization/PrimitiveOverloading.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Flower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Leaf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PassingThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/herokutest/Services.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/io/ChangeSystemOut.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/io/ChangeSystemOut.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/getnames/CloudIDEGetName.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/getnames/CloudIDEGetName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/io/Echo.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/io/Echo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Redirecting.java" afterPath="$PROJECT_DIR$/src/io/Redirecting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/io/Redirecting.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/io/Redirecting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" afterPath="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="c74c6f97-5203-4455-8fee-bf46bde1c26c" name="New changelist" comment="" />
     <ignored path="Eccel2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/copyright/profiles_settings.xml" />
@@ -244,7 +251,7 @@
     <file path="/HotkeysFormTest.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382443075036" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/core/Chat.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380209807449" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/factoryUrl/JRebelImpactsTst.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380009198865" ignored="false" />
-    <file path="/Dummy.txt" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382998408418" ignored="false" />
+    <file path="/Dummy.txt" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1383515597052" ignored="false" />
     <file path="$USER_HOME$/codenvy-qa-project/qa/codenvy-ide-selenium/src/test/java/com/codenvy/ide/core/File.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1380114953763" ignored="false" />
     <file path="/File.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379947038189" ignored="false" />
     <file path="/BasicFileOutput.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1379951182995" ignored="false" />
@@ -671,6 +678,9 @@
     <file path="/test.out" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382615054893" ignored="false" />
     <file path="/Overloading.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1382999830402" ignored="false" />
     <file path="/PrimitiveOverloading.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1383000323390" ignored="false" />
+    <file path="/Leaf.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1383433244707" ignored="false" />
+    <file path="/Person.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1383434124155" ignored="false" />
+    <file path="/Flower.java" changelist="e1430f79-9240-49ad-a78a-e214e3d2c8d6" time="1383516876520" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -742,19 +752,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Overloading.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Overloading.java">
+      <file leaf-file-name="Leaf.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Leaf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+            <state line="19" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimitiveOverloading.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PrimitiveOverloading.java">
+      <file leaf-file-name="PassingThis.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PassingThis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="56" selection-start="125" selection-end="125" vertical-scroll-proportion="-0.6126126">
+            <state line="21" column="17" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Flower.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Flower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="28" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.90555555">
               <folding />
             </state>
           </provider>
@@ -764,6 +783,15 @@
         <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/print/Print.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextFile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -792,9 +820,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/TstCls.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/RegxpExperementation.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/Echo.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/ChangeSysytemOut.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/ChangeSystemOut.java" />
@@ -802,20 +827,22 @@
         <option value="$PROJECT_DIR$/test.out" />
         <option value="$PROJECT_DIR$/src/io/Redirecting.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/Redirecting.java" />
-        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/print/Print.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Overloading.java" />
         <option value="$PROJECT_DIR$/src/initialization/PrimitiveOverloading.java" />
         <option value="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PrimitiveOverloading.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Person.java" />
+        <option value="$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Flower.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="y" value="5" />
+    <option name="width" value="1351" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1029,50 +1056,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pochercushki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inititialize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Overloading.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="initialization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eccel2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value=".settings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1099,13 +1082,13 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="62" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="62" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="62" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="62" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="D:/temp/mail.jar!/" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="65" />
@@ -1117,22 +1100,23 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="gradle.tool.window.active" value="Tasks" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1142,55 +1126,7 @@
       <recent name="D:\MeJAVA\Eccel2\src\ua\max\pochercushki\inititialize" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overloading">
-    <configuration default="false" name="SomeClass2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.SomeClass2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Eccel2" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Echo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.io.Echo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Eccel2" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChangeSystemOut" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.io.ChangeSystemOut" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Eccel2" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PassingThis">
     <configuration default="false" name="Redirecting" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.io.Redirecting" />
       <option name="VM_PARAMETERS" />
@@ -1223,6 +1159,54 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="PrimitiveOverloading" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.inititialize.PrimitiveOverloading" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Eccel2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leaf" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.inititialize.Leaf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Eccel2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PassingThis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.max.pochercushki.inititialize.PassingThis" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Eccel2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -1235,6 +1219,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1262,19 +1259,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1335,19 +1319,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.RegxpExperementation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SomeClass2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Echo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChangeSystemOut" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Redirecting" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Overloading" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Redirecting" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Overloading" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PrimitiveOverloading" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Leaf" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PassingThis" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Overloading" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Redirecting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Redirecting" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Redirecting" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ChangeSystemOut" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PassingThis" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Leaf" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrimitiveOverloading" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Overloading" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Redirecting" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1377,6 +1361,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e1430f79-9240-49ad-a78a-e214e3d2c8d6" name="Default" comment="" />
+      <changelist id="c74c6f97-5203-4455-8fee-bf46bde1c26c" name="New changelist" comment="" />
       <created>1375970534188</created>
       <updated>1375970534188</updated>
     </task>
@@ -1388,7 +1373,11 @@
       <created>1382454538165</created>
       <updated>1382454538165</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="try add files">
+      <created>1383001198003</created>
+      <updated>1383001198003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1412,30 +1401,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="0" y="5" width="1351" height="721" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06042654" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19672132" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.28688523" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17432646" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="11" y="699" width="1634" height="281" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.163606" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.93911004" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2651515" sideWeight="0.60134006" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39865997" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23450586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26920092" sideWeight="0.6951424" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3048576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32986537" sideWeight="0.6709602" order="3" side_tool="false" content_ui="tabs" x="150" y="637" width="759" height="348" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1736227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="11" y="699" width="1634" height="281" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1504,29 +1493,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/Redirecting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.057581574">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="130" selection-end="130" vertical-scroll-proportion="0.104166664">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/SomeClass2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="478" selection-end="478" vertical-scroll-proportion="0.8333333">
@@ -1548,64 +1514,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/ChangeSystemOut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/Redirecting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="9" selection-start="1687" selection-end="1687" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="19" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/MailTrainingIMAP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="17" selection-start="683" selection-end="687" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#4460#0" expanded="true" />
+            <element signature="e#0#4496#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/initialization/Overloading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="6" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Print.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="148" selection-end="647" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#654#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="24" column="1" selection-start="148" selection-end="647" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/initialization/PrimitiveOverloading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="12" selection-start="182" selection-end="2665" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#3269#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="90" column="12" selection-start="182" selection-end="2665" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Overloading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PrimitiveOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/print/Print.java">
@@ -1615,9 +1563,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PrimitiveOverloading.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/io/TextFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="56" selection-start="125" selection-end="125" vertical-scroll-proportion="-0.6126126">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/PassingThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/pochercushki/inititialize/Flower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="28" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.90555555">
           <folding />
         </state>
       </provider>
