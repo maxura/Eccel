@@ -2,9 +2,15 @@ package ua.max.pochercushki;
 
 /**
  * @author <a href="mailto:mmusienko@codenvy.com">Musienko Maxim</a>
- * @version $Id: 2013 8/22/13 10:17 AM
+ * @version $Id: 2013 11/7/13 9:33 AM
  */
-public class SomeClass4 {
+public class HelloWorld {
+
+    /**
+     * convert login to pass
+     * @param login
+     * @return
+     */
     private static String convertLoginToPass(String login) {
         char[] pass = login.toCharArray();
         for (int i = 0; i < pass.length; i++) {
@@ -15,6 +21,7 @@ public class SomeClass4 {
     }
 
     public static void main(String[] args) {
-        System.out.println(convertLoginToPass("thungaring@gmail2.com"));
+        System.out.println(convertLoginToPass("thungaring2@gmail.com"));
     }
+
 }
