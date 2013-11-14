@@ -18,16 +18,14 @@ public class RegxpExperementation {
     private Matcher mtch;
 
 
-    //  private String linkPattern = "(http|https):////"+".*" + "codenvy-dev.com" +".*"+ "setup-password" +"id="+
-    //                             "\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12}";
+    //https://codenvy-dev.com/factory?id=sw6doyfn96lg1oua
 
-    private String linkPattern = "(http|https)://" + "codenvy-dev.com" + "/" + ".*" + "openproject&ptype=Spring";
+    private String linkPattern = "(http|https)://" + "codenvy-dev.com" + "/" + "factory\\?id=\\w{16}";
     //"(http|https):////"+"codenvy-dev.com"+".*"+"setup-password"+".*"+"id="+"\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12}";
 
-    String testText = "https://codenvy-dev.com/factory?v=1.0&pname=untitled&wname=musienko.maxim&vcs=git&vcsurl=http://codenvy-dev" +
-                      ".com/git/ce/19/80/workspacecjgf4wo31diktag1/untitled&idcommit=a0597f88b90234d84389b705482d8b2bcf3d2191&action" +
-                      "=openproject" +
-                      "&ptype=Spring\n" +
+    String testText = "Подробнее\n" +
+                      "I would like to share with you my project untitledddqwe on Codenvy:\n" +
+                      "https://codenvy-dev.com/factory?id=sw6doyfn96lg1oua\n" +
                       "\n" +
                       "Please contact me in case of any questions.\n" +
                       "Enjoy coding in the cloud!\n" +

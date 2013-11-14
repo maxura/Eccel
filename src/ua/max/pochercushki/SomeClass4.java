@@ -15,6 +15,6 @@ public class SomeClass4 {
     }
 
     public static void main(String[] args) {
-        System.out.println(convertLoginToPass("thungaring@gmail2.com"));
+        System.out.println(convertLoginToPass("thungaring2@gmail.com"));
     }
 }
