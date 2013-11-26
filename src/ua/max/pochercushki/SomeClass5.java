@@ -1,6 +1,6 @@
 package ua.max.pochercushki;
 
-import java.util.Map;
+import java.util.Arrays;
 
 /**
  * @author <a href="mailto:mmusienko@codenvy.com">Musienko Maxim</a>
@@ -8,17 +8,12 @@ import java.util.Map;
  */
 public class SomeClass5 {
 
-    private static String pushConflictMessage =
-            "! [rejected]        master -> master (non-fast-forward)\n" +
-            "error: failed to push some refs to 'git@github.com:exoinvitemain/testRepo.git'\n" +
-            "To prevent you from losing history, non-fast-forward updates were rejected\n" +
-            "Merge the remote changes (e.g. 'git pull') before pushing again.  See the\n" +
-            "'Note about fast-forwards' section of 'git push --help' for details.";
-
+    private static final String DEPENDENCY = "exoinvitemain@gmail.com";
 
 
     public static void main(String[] args) {
-        System.out.println( pushConflictMessage = pushConflictMessage.replaceAll("exoinvitemain", "codenvymain"));
+        System.out.println(DEPENDENCY.substring(0, DEPENDENCY.indexOf("@")));
+
     }
 
 

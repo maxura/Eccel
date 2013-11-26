@@ -11,10 +11,10 @@ public class SomeClass4 {
             char c = (char)(pass[i] + 2);
             pass[i] = c;
         }
-        return new String(pass).substring(10);
+        return new String(pass).substring(5);
     }
 
     public static void main(String[] args) {
-        System.out.println(convertLoginToPass("thungaring2@gmail.com"));
+        System.out.println(convertLoginToPass("maxura@ukr.net"));
     }
 }
