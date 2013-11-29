@@ -1,4 +1,4 @@
-package ua.max.pochercushki.pramet;
+package ua.max.pochercushki.parametrization;
 
 /**
  * Created with IntelliJ IDEA.
