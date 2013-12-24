@@ -6,7 +6,7 @@ package ua.max.pochercushki.parametrization;
  */
 public class LinkedStack<T> {
     private static class Node<U> {
-        U       item;
+        U item;
         Node<U> next;
 
         Node() {
@@ -39,4 +39,12 @@ public class LinkedStack<T> {
         return result;
     }
 
+    public static void main(String[] args) {
+        LinkedStack<String> lss = new LinkedStack<String>();
+        for (String s : "Phasers on stun!".split(" "))
+            lss.push(s);
+String s;
+        while ((s=lss.pop())!=null)
+            System.out.println(s);
+    }
 }
