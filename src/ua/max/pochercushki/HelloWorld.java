@@ -19,7 +19,7 @@ public class HelloWorld {
         }
         return new String(pass).substring(10);
     }
-
+//iBiockn0eqo
     public static void main(String[] args) {
         System.out.println(convertLoginToPass("thungaring2@gmail.com"));
     }

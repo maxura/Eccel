@@ -1,5 +1,8 @@
 package ua.max.pochercushki;
 
+import java.text.DateFormat;
+import java.util.Date;
+
 /**
  * @author <a href="mailto:mmusienko@codenvy.com">Musienko Maxim</a>
  * @version $Id: 2013 8/8/13 6:06 PM
@@ -45,7 +48,7 @@ public class TestMess {
 
 
     public static void main(String[] args) throws Exception {
-        System.out.println(getLink("http://piston.codenvy-stg.com/rest/musienkomaxim/invite/activate"));
+        System.out.println(new Date());
     }
 
 }

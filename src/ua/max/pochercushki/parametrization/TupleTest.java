@@ -8,6 +8,7 @@ package ua.max.pochercushki.parametrization;
  * To change this template use File | Settings | File Templates.ian{}
  */
 class Amphibian {
+
 }
 
 class Vechicle {

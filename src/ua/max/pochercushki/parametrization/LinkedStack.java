@@ -33,9 +33,9 @@ public class LinkedStack<T> {
 
     public T pop() {
         T result = top.item;
-        if (!top.end()) {
+        if (!top.end())
             top = top.next;
-        }
+
         return result;
     }
 
