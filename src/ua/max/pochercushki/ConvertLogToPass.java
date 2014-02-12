@@ -4,7 +4,7 @@ package ua.max.pochercushki;
  * @author <a href="mailto:mmusienko@codenvy.com">Musienko Maxim</a>
  * @version $Id: 2013 11/7/13 9:33 AM
  */
-public class HelloWorld {
+public class ConvertLogToPass {
 
     /**
      * convert login to pass
