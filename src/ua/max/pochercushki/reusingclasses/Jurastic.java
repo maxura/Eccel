@@ -17,10 +17,36 @@
  */
 package ua.max.pochercushki.reusingclasses;
 
-/** @author Musienko Maxim */
-class Poppet{
+class SmallBrain {
 
 }
 
-public class BlankFInal {
+/** @author Musienko Maxim */
+final class Dinosaur {
+    int        i = 7;
+    int        j = 1;
+    SmallBrain x = new SmallBrain();
+
+    void f() {
+    }
+}
+
+//class Further extends Dinosaur{
+//
+//}
+public class Jurastic {
+    public static void main(String[] args) {
+        Dinosaur n = new Dinosaur();
+        n.i = 40;
+        n.j++;
+        n.f();
+
+        Dinosaur x = new Dinosaur();
+        x = n;
+
+        System.out.println(x.i);
+        System.out.println(x.j);
+
+    }
+
 }
