@@ -17,7 +17,7 @@
  */
 package ua.max.pochercushki.reusingclasses;
 
-import static net.mindview.util.Print.print;
+//import static net.mindview.util.Print.print;
 
 class Insect {
     private int i = 9;
@@ -32,7 +32,7 @@ class Insect {
             printInit("static Insect.x1 initialized");
 
     static int printInit(String s) {
-        print(s);
+       // print(s);
         return 47;
     }
 

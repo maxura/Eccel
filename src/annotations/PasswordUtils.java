@@ -1,7 +1,10 @@
-//: annotations/PasswordUtils.java
+package annotations;//: annotations/PasswordUtils.java
+import annotations.UseCase;
+
 import java.util.*;
 
-public class PasswordUtils {
+public class PasswordUtils
+{
   @UseCase(id = 47, description =
   "Passwords must contain at least one numeric")
   public boolean validatePassword(String password) {

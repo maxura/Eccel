@@ -2,37 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
-    <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/src/innerclasses/Factories.java" />
-      <file url="file://$PROJECT_DIR$/src/swt/SineWave.java" />
-      <file url="file://$PROJECT_DIR$/src/gui/Menus.java" />
-      <directory url="file://$PROJECT_DIR$/src/access" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/annotations" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/arrays" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/bangbean" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/concurrency" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/containers" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/control" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/enumerated" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/exceptions" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/frogbean" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/generics" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/gui" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/holding" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/initialization" includeSubdirectories="false" />
-      <directory url="file://$PROJECT_DIR$/src/innerclasses" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/interfaces" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/io" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/net" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/object" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/operators" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/polymorphism" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/reusing" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/strings" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/swt" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/typeinfo" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/xml" includeSubdirectories="true" />
-    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -47,6 +16,13 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Eccel2" />
       </profile>
     </annotationProcessing>
   </component>

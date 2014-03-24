@@ -1,6 +1,7 @@
-//: initialization/PrimitiveOverloading.java
+package initialization;//: initialization/PrimitiveOverloading.java
 // Promotion of primitives and overloading.
-import static ua.max.pochercushki.print.Print.printb;
+//import static print.Print.printb;
+import  static net.mindview.util.Print.*;
 
 public class PrimitiveOverloading {
   void f1(char x) { printnb("f1(char) "); }

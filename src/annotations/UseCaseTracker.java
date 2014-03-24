@@ -1,4 +1,7 @@
-//: annotations/UseCaseTracker.java
+package annotations;//: annotations/UseCaseTracker.java
+import annotations.PasswordUtils;
+import annotations.UseCase;
+
 import java.lang.reflect.*;
 import java.util.*;
 

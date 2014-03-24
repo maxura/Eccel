@@ -1,10 +1,15 @@
 package ua.max.pochercushki;
 
+import java.io.FileWriter;
 import java.io.IOException;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+class Dd {
+    public String testM(String str) {
+        return str.trim().toUpperCase();
+    }
+}
 
 public class TstCls {
     static String  regexp  = "\\w{40}";
@@ -14,25 +19,16 @@ public class TstCls {
     static StringBuilder build = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
-
-        URL url = new URL("https://api.github.com/repos/exoinvitemain/factoryUrlRepo/git/refs/heads/master");
-        HttpURLConnection connect = (HttpURLConnection)url.openConnection();
-        connect.setRequestMethod("GET");
-        connect.setDoInput(true);
-
-
-        while (connect.getInputStream().available() != 0) {
-
-            build.append(((char)connect.getInputStream().read()));
-            //String.valueOf((char)connect.getInputStream().read());
-
+        FileWriter fr = new FileWriter("/home/musienkomaxim/tmp/big.txt");
+        for (int i = 1; i < 350; i++) {
+            fr.write("public void testM_" + i + "(String str)\n{\n" +
+                     "        str.getBytes();\n" +
+                     "}\n\n" + "public String testMR_" + i + "(String str)\n{\n" +
+                     "     return    str.trim().toUpperCase();\n" +
+                     "}\n\n"
+                    );
+fr.flush();
         }
-        commit = build.toString();
-        matcher = pattern.matcher(commit);
-        if (matcher.find())
-            System.out.println(matcher.group());
-        //System.out.println(matcher.group());
-        connect.disconnect();
 
     }
 }

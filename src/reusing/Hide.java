@@ -1,9 +1,9 @@
-//: reusing/Hide.java
+package reusing;//: reusing/Hide.java
 // Overloading a base-class method name in a derived
 // class does not hide the base-class versions.
 import static net.mindview.util.Print.*;
 
-class Homer {
+abstract class Homer {
   char doh(char c) {
     print("doh(char)");
     return 'd';
@@ -12,6 +12,8 @@ class Homer {
     print("doh(float)");
     return 1.0f;
   }
+
+    abstract void doh(Milhouse m);
 }
 
 class Milhouse {}
