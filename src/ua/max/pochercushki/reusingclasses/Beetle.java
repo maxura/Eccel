@@ -17,7 +17,7 @@
  */
 package ua.max.pochercushki.reusingclasses;
 
-//import static net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 class Insect {
     private int i = 9;
@@ -29,10 +29,10 @@ class Insect {
     }
 
     private static int x1 =
-            printInit("static Insect.x1 initialized");
+            printInit("static Insect.x1 is initialized");
 
     static int printInit(String s) {
-       // print(s);
+         print(s);
         return 47;
     }
 
@@ -41,4 +41,19 @@ class Insect {
 
 /** @author Musienko Maxim */
 public class Beetle extends Insect {
+    private int k = printInit("Field beetle k is initializing");
+
+    public Beetle() {
+        print("k=" + k);
+        print("j=" + j);
+    }
+
+
+    private static int x2 = printInit("static Field beetle x2 is initializing");
+
+    public static void main(String[] args) {
+        print("Constructor Beetle");
+        Beetle b = new Beetle();
+    }
+
 }
