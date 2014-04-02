@@ -2,7 +2,6 @@ package ua.max.pochercushki;
 
 
 import java.io.UnsupportedEncodingException;
-import java.util.Arrays;
 
 public class SomeClass {
 
@@ -12,14 +11,14 @@ public class SomeClass {
 
     public static void main(String[] args) throws UnsupportedEncodingException {
 
-    String t = "exoinvitemain";
-
-        for (int i = 0; i < t.length(); i++) {
-       //     t.getBytes()[i]/2;
-
-        }
-
-
-
+    String t = "https://codenvy-stg.com/ide/exoinvitemain";
+//
+//        for (int i = 0; i < t.length(); i++) {
+//       //     t.getBytes()[i]/2;
+//
+//        }
+//
+//
+        System.out.println(t.replace("https://codenvy-stg.com/ide/", ""));
     }
 }
