@@ -20,7 +20,7 @@ package ua.max.pochercushki.polimorfism;
 
 import static ua.max.pochercushki.print.Print.print;
 
-class Instument {
+class Instuments {
     void play(Note n) {
         print("Instrument play(): " + n);
     }
@@ -36,69 +36,87 @@ class Instument {
 }
 
 
-class Winds extends Instrument {
-//    void play(Note n) {
-//        print("Wind play (): " + n);
-//    }
-//
-//
-//    String what() {
-//        return ("Wind");
-//    }
-//
-//    void adjust() {
-//        print("Adjust instrument");
-//    }
-//}
-//
-//
-//class Percussion extends Instrument {
-//    void play(Note n) {
-//        print("Percission play (): " + n);
-//    }
-//
-//
-//    String what() {
-//        return ("Percussion");
-//    }
-//
-//    void adjust() {
-//        print("Adjust Percussion");
-//    }
-//}
-//
-//class Stringed_ extends Instrument {
-//    void play(Note n) {
-//        print("Stringed_ play (): " + n);
-//    }
-//
-//
-//    String what() {
-//        return ("Stringed_");
-//    }
-//
-//    void adjust() {
-//        print("Stringed_ Percussion");
-//    }
-//}
-//
-//class BraSs extends Wind {
-//    void play(Note n) {
-//        print("BraSs play (): " + n);
-//    }
-//
-//    String what() {
-//        return ("BraSs");
-//    }
-//
-//}
-//
-//class WoodWind extends Wind {
-//
-//}
-//
-//public class Music3 {
-//    public static void main(String[] args) {
-//
-//    }
+class Winds extends Instuments {
+    void play(Note n) {
+        print("Wind play (): " + n);
+    }
+
+
+    String what() {
+        return ("Wind");
+    }
+
+    void adjust() {
+        print("Adjust instrument");
+    }
+}
+
+
+class Percussion extends Instuments {
+    void play(Note n) {
+        print("Percission play (): " + n);
+    }
+
+
+    String what() {
+        return ("Percussion");
+    }
+
+    void adjust() {
+        print("Adjust Percussion");
+    }
+}
+
+class Stringed_ extends Instuments {
+    void play(Note n) {
+        print("Stringed_ play (): " + n);
+    }
+
+
+    String what() {
+        return ("Stringed_");
+    }
+
+    void adjust() {
+        print("Stringed_ Percussion");
+    }
+}
+
+class BraSs extends Winds {
+    void play(Note n) {
+        print("BraSs play (): " + n);
+    }
+
+    String what() {
+        return ("BraSs");
+    }
+
+}
+
+class WoodWind extends Winds {
+    void play(Note n) {
+        print("WoodWind play (): " + n);
+    }
+
+    String what() {
+        return ("WoodWind");
+    }
+}
+
+public class Music3 {
+    public static void tune(Instuments i) {
+        i.play(Note.MIDDLE_C);
+    }
+
+    public static void tuneAll(Instuments[] e) {
+        for (Instuments i : e) {
+            tune(i);
+        }
+    }
+
+
+    public static void main(String[] args) {
+        Instuments[] orcestra = {new Winds(), new Percussion(), new Stringed_(), new BraSs(), new WoodWind()};
+        tuneAll(orcestra);
+    }
 }
