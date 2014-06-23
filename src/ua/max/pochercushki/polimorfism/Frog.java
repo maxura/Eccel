@@ -19,7 +19,9 @@ package ua.max.pochercushki.polimorfism;
 
 import ua.max.pochercushki.print.Print;
 
-/** @author Musienko Maxim */
+/**
+ * @author Musienko Maxim
+ */
 
 class Characteristic {
     private String s;
@@ -51,7 +53,7 @@ class Description {
 
 class LivingCreature {
     private Characteristic p = new Characteristic("Living Creature");
-    private Description    t = new Description("Just living Creature");
+    private Description t = new Description("Just living Creature");
 
     LivingCreature() {
         Print.print("LivingCreature()");
@@ -64,7 +66,54 @@ class LivingCreature {
     }
 }
 
-//class Animal
+class Animal extends LivingCreature {
+    private Characteristic p = new Characteristic("Have a hard");
+    private Description t = new Description("Creature - not plant");
 
-public class Frog {
+    Animal() {
+        Print.print("Animal");
+    }
+
+    protected void dispose() {
+        Print.print("Dispose into Animal");
+        p.dispose();
+        t.dispose();
+        super.dispose();
+    }
+}
+
+class Amphibian extends Animal {
+    private Characteristic p = new Characteristic("Can leave in water");
+    private Description t = new Description("In water and ground");
+
+    Amphibian() {
+        Print.print("Ampibian");
+    }
+
+    protected void dispose() {
+        Print.print("Dispose into Amphibian");
+        p.dispose();
+        t.dispose();
+        super.dispose();
+
+    }
+}
+
+public class Frog extends Amphibian {
+    private Characteristic p = new Characteristic("Croaks");
+    private Description t = new Description("Eats bugs");
+    Frog(){Print.print("Frog()");}
+    protected void dispose() {
+        Print.print("End into Frog");
+        p.dispose();
+        t.dispose();
+        super.dispose();
+    }
+
+    public static void main(String[] args) {
+        Frog frog = new Frog();
+        Print.print("Bye");
+        frog.dispose();
+    }
+
 }
