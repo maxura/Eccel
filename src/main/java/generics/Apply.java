@@ -1,4 +1,4 @@
-package generics;//: generics/Apply.java
+package generics;//: generics/Processor.java
 // {main: ApplyTest}
 import java.lang.reflect.*;
 import java.util.*;

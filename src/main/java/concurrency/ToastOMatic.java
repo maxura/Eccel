@@ -43,7 +43,7 @@ class Toaster implements Runnable {
   }
 }
 
-// Apply butter to toast:
+// Processor butter to toast:
 class Butterer implements Runnable {
   private ToastQueue dryQueue, butteredQueue;
   public Butterer(ToastQueue dry, ToastQueue buttered) {
@@ -66,7 +66,7 @@ class Butterer implements Runnable {
   }
 }
 
-// Apply jam to buttered toast:
+// Processor jam to buttered toast:
 class Jammer implements Runnable {
   private ToastQueue butteredQueue, finishedQueue;
   public Jammer(ToastQueue buttered, ToastQueue finished) {
