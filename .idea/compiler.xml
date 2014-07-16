@@ -23,7 +23,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Eccel" />
-        <module name="maxura-parent" />
       </profile>
     </annotationProcessing>
   </component>
