@@ -36,5 +36,34 @@ class CheckersFactory implements GameFactory {
     }
 }
 
+class Chess implements Game {
+
+    private int moves = 0;
+    private static final int MOVES = 4;
+
+    @Override
+    public boolean moove() {
+        Print.print("Chess moove" + moves);
+        return ++moves != MOVES;
+    }
+}
+
+class ChessFactory implements GameFactory {
+
+    @Override
+    public Game getGame() {
+        return new Chess();
+    }
+}
+
 public class Games {
+    public static void playGame(GameFactory factory) {
+        Game s = factory.getGame();
+        while (s.moove()) ;
+    }
+
+    public static void main(String[] args) {
+        playGame(new CheckersFactory());
+        playGame(new ChessFactory());
+    }
 }
