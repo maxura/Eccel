@@ -1,17 +1,16 @@
 package ua.max.pochercushki.parametrization;
 
-/**
- * Created with IntelliJ IDEA.
- * User: nata
- * Date: 29.11.13
- * Time: 0:03
- * To change this template use File | Settings | File Templates.ian{}
- */
-class Amphibian {
+import net.mindview.util.CountingGenerator;
+import net.mindview.util.RandomGenerator;
 
+/**
+ * Created by mmusienko on 9/15/14.
+ */
+
+class Amphibian {
 }
 
-class Vechicle {
+class Vehicle {
 }
 
 public class TupleTest {
@@ -23,12 +22,12 @@ public class TupleTest {
         return new ThreeTuple<Amphibian, String, Integer>(new Amphibian(), "hi", 47);
     }
 
-    static FourTuple<Vechicle, Amphibian, String, Integer> h() {
-        return new FourTuple(new Vechicle(), new Amphibian(), "hi", 47);
+    static FourTuple<Vehicle, Amphibian, String, Integer> h() {
+        return new FourTuple<Vehicle, Amphibian, String, Integer>(new Vehicle(), new Amphibian(), "hi", 47);
     }
 
-    static FiveTouple<Vechicle, Amphibian, String, Integer, Double> k() {
-        return new FiveTouple(new Vechicle(), new Amphibian(), "hi", 47, 11.1);
+    static FiveTuple<Vehicle, Amphibian, String, Integer, Double> k() {
+        return new FiveTuple<Vehicle, Amphibian, String, Integer, Double>(new Vehicle(), new Amphibian(), "hi", 47, 11.1);
     }
 
     public static void main(String[] args) {

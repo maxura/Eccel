@@ -1,11 +1,7 @@
 package ua.max.pochercushki.parametrization;
 
 /**
- * Created with IntelliJ IDEA.
- * User: nata
- * Date: 26.11.13
- * Time: 23:23
- * To change this template use File | Settings | File Templates.
+ * Created by mmusienko on 9/15/14.
  */
 public class TwoTuple<A, B> {
     public final A first;
@@ -17,7 +13,6 @@ public class TwoTuple<A, B> {
     }
 
     public String toString() {
-        return "(" + first + "," + second + ")";
+        return ("(" + first + "," + second + ")");
     }
 }
-
