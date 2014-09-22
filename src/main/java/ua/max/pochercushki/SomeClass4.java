@@ -10,10 +10,10 @@ public class SomeClass4  extends SomeClass{
     private static String factoryData =
             "{\"v\":\"1.2\",\"vcs\":\"git\",\"vcsurl\":\"" + gitUrl + "\"," + "\"projectattributes\": {\"pname\":" + "\"" + nameProject +
             "\"" + "}}";
-
-    public SomeClass4(Integer ar, Float b) {
-        super(ar, b);
-    }
+//
+//    public SomeClass4(Integer ar, Float b) {
+//        super(ar, b);
+//    }
 
 
     private static String convertLoginToPass(String login) {
