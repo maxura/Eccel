@@ -22,29 +22,26 @@ public class LinkedStack<T> {
         boolean end() {
             return item == null && next == null;
         }
-    }
 
+    }
     private Node<T> top = new Node<T>();
-
-    public void push(T item) {
-        top = new Node<T>(item, top);
-
+    public void push(T item){
+        top = new Node<T>(item,top);
     }
 
-    public T pop() {
+    public T pop(){
         T result = top.item;
-        if (!top.end())
-            top = top.next;
-
+        if(!top.end())
+        top=top.next;
         return result;
     }
 
     public static void main(String[] args) {
-        LinkedStack<String> lss = new LinkedStack<String>();
-        for (String s : "Phasers on stun!".split(" "))
+        LinkedStack<String>lss=new LinkedStack<String>();
+        for (String s : "Phases on stun!".split(" "))
             lss.push(s);
-String s;
+            String s;
         while ((s=lss.pop())!=null)
-            System.out.println(s);
+        System.out.println(s);
     }
 }
