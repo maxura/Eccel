@@ -1,7 +1,4 @@
 package ua.max.pochercushki.parametrization.util;
-
-import
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,5 +11,16 @@ public class GenericVarargs {
         for (T item : args)
             result.add(item);
         return result;
+    }
+
+    public static void main(String[] args) {
+        List<String>ls = maleList("A");
+        System.out.println(ls);
+        ls = maleList("A","B");
+        System.out.println(ls);
+        ls = maleList("A","B","C");
+        System.out.println(ls);
+        ls=maleList("ABCDEFFHIJKLMNOPQRSTUVWXYZ".split(""));
+        System.out.println(ls);
     }
 }

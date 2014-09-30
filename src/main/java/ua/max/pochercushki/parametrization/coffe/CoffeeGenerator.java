@@ -1,7 +1,5 @@
 package ua.max.pochercushki.parametrization.coffe;
 
-import containers.Unsupported;
-import generics.coffee.Breve;
 import net.mindview.util.Generator;
 
 import java.util.Iterator;
@@ -10,7 +8,7 @@ import java.util.Random;
 /**
  * Created by mmusienko on 9/22/14.
  */
-public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee> {
+public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>, ua.max.pochercushki.parametrization.gen.Generator<Coffee> {
     private Class[] types = {Latte.class, Mocha.class, Cappuchino.class, Americano.class, ua.max.pochercushki.parametrization.coffe.Breve.class};
     private static Random rand = new Random(47);
 
