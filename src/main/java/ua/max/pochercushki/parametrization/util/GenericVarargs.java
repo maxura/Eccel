@@ -1,7 +1,4 @@
 package ua.max.pochercushki.parametrization.util;
-
-import
-
 import java.util.ArrayList;
 import java.util.List;
 
