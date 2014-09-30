@@ -2,7 +2,7 @@ package ua.max.pochercushki.typedinfo;
 
 import net.mindview.util.Print;
 
-import java.util.Objects;
+
 
 /**
  * Created by mmusienko on 9/30/14.
@@ -32,15 +32,15 @@ class FancyToy extends Toy implements HasBatteries, Waterproof, Shoots {
 
 public class ToyTest {
     static void printInfo(Class cc) {
-        Print.print("Name of class: " + cc.getName() + "Is it interfaxe? [" + cc.isInterface() + "]");
+        Print.print("Name of class: " + cc.getName() + " Is it interfase? [" + cc.isInterface() + "]");
         Print.print("The simple name: " + cc.getSimpleName());
-        Print.print("Cannonicak name: " + cc.getCanonicalName());
+        Print.print("Canonical name: " + cc.getCanonicalName());
     }
 
     public static void main(String[] args) {
         Class c = null;
         try {
-            c = Class.forName("typeinfo.toys.FancyToy");
+            c = Class.forName("ua.max.pochercushki.typedinfo.FancyToy");
         } catch (ClassNotFoundException e) {
             Print.print("Can't find FancyToy");
             System.exit(1);
@@ -56,7 +56,7 @@ public class ToyTest {
             Print.print("Can not create the object");
             System.exit(1);
         } catch (IllegalAccessException e) {
-            Print.print("There is no access");
+            Print.print(e);
             System.exit(1);
         }
         printInfo(obj.getClass());
