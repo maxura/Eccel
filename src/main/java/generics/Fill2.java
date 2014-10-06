@@ -19,7 +19,7 @@ public class Fill2 {
         throw new RuntimeException(e);
       }
   }
-  // Generator version:
+  // Generators version:
   public static <T> void fill(Addable<T> addable,
   Generator<T> generator, int size) {
     for(int i = 0; i < size; i++)

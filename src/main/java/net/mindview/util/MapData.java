@@ -4,7 +4,7 @@ package net.mindview.util;
 import java.util.*;
 
 public class MapData<K,V> extends LinkedHashMap<K,V> {
-  // A single Pair Generator:
+  // A single Pair Generators:
   public MapData(Generator<Pair<K,V>> gen, int quantity) {
     for(int i = 0; i < quantity; i++) {
       Pair<K,V> p = gen.next();
@@ -18,13 +18,13 @@ public class MapData<K,V> extends LinkedHashMap<K,V> {
       put(genK.next(), genV.next());
     }
   }
-  // A key Generator and a single value:
+  // A key Generators and a single value:
   public MapData(Generator<K> genK, V value, int quantity){
     for(int i = 0; i < quantity; i++) {
       put(genK.next(), value);
     }
   }
-  // An Iterable and a value Generator:
+  // An Iterable and a value Generators:
   public MapData(Iterable<K> genK, Generator<V> genV) {
     for(K key : genK) {
       put(key, genV.next());

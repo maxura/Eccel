@@ -8,7 +8,7 @@ class Customer {
   private final long id = counter++;
   private Customer() {}
   public String toString() { return "Customer " + id; }
-  // A method to produce Generator objects:
+  // A method to produce Generators objects:
   public static Generator<Customer> generator() {
     return new Generator<Customer>() {
       public Customer next() { return new Customer(); }
@@ -21,7 +21,7 @@ class Teller {
   private final long id = counter++;
   private Teller() {}
   public String toString() { return "Teller " + id; }
-  // A single Generator object:
+  // A single Generators object:
   public static Generator<Teller> generator =
     new Generator<Teller>() {
       public Teller next() { return new Teller(); }

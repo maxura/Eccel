@@ -25,15 +25,15 @@ class Letters implements Generator<Pair<Integer,String>>,
 
 public class MapDataTest {
   public static void main(String[] args) {
-    // Pair Generator:
+    // Pair Generators:
     print(MapData.map(new Letters(), 11));
     // Two separate generators:
     print(MapData.map(new CountingGenerator.Character(),
       new RandomGenerator.String(3), 8));
-    // A key Generator and a single value:
+    // A key Generators and a single value:
     print(MapData.map(new CountingGenerator.Character(),
       "Value", 6));
-    // An Iterable and a value Generator:
+    // An Iterable and a value Generators:
     print(MapData.map(new Letters(),
       new RandomGenerator.String(3)));
     // An Iterable and a single value:
