@@ -31,6 +31,7 @@ class DinamicProxyHandler implements InvocationHandler {
 }
 
 public class SimpleDinamicProxy {
+
     public static void consumer(Interface iface) {
         iface.doSomething();
         iface.somethingElse("bonobo");
