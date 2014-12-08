@@ -1,6 +1,5 @@
 package ua.max.pochercushki;
 
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -18,18 +17,10 @@ public class TstCls {
     static String  commit;
     static StringBuilder build = new StringBuilder();
 
-    public static void main(String[] args) throws IOException {
-        FileWriter fr = new FileWriter("/home/musienkomaxim/tmp/big.txt");
-        for (int i = 1; i < 350; i++) {
-            fr.write("public void testM_" + i + "(String str)\n{\n" +
-                     "        str.getBytes();\n" +
-                     "}\n\n" + "public String testMR_" + i + "(String str)\n{\n" +
-                     "     return    str.trim().toUpperCase();\n" +
-                     "}\n\n"
-                    );
-fr.flush();
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
+       // ConvertLogToPass.class.con
         }
 
     }
-}
+
 
