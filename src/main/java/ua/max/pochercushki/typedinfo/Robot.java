@@ -20,7 +20,7 @@ public interface Robot {
             System.out.println("Model: " + r.model());
             for (Operation operation : r.operations()) {
                 System.out.println(operation.description());
-                operation.comamnd();
+                operation.command();
             }
         }
     }

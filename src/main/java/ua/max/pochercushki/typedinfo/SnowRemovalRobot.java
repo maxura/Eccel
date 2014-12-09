@@ -1,5 +1,6 @@
 package ua.max.pochercushki.typedinfo;
 
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -18,12 +19,44 @@ public class SnowRemovalRobot implements Robot {
 
     @Override
     public String model() {
-        return null;
+        return "SnowBot Series 11";
     }
 
     @Override
     public List<Operation> operations() {
-        return null;
+        return Arrays.asList(new Operation() {
+                                 public String description() {
+                                     return name + " can remove snow";
+                                 }
+
+                                 public void command() {
+                                     System.out.println(name + " removes snow");
+                                 }
+                             }, new Operation() {
+                                 @Override
+                                 public String description() {
+                                     return name + " can break ice";
+                                 }
+
+                                 @Override
+                                 public void command() {
+                                     System.out.println("breaks ice");
+                                 }
+                             },
+                new Operation() {
+                    @Override
+                    public String description() {
+                        return name + " can clean roof";
+                    }
+
+                    @Override
+                    public void command() {
+                        System.out.println(name + " cleans roof");
+                    }
+                });
     }
 
+    public static void main(String[] args) {
+        Robot.Test.test(new SnowRemovalRobot("Slusher"));
+    }
 }

@@ -5,5 +5,5 @@ package ua.max.pochercushki.typedinfo;
  */
 public interface Operation {
     String description();
-    void comamnd();
+    void command();
 }
